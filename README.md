@@ -1,4 +1,4 @@
-# Hello! Im ItzMelton!     
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=999999&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=✨I+am+Melon!)](https://git.io/typing-svg)     
 
 I make TShock plugins on mobile, which is pretty strange because most people use a PC/Laptop, but I just push through and code straight from my mobile devices.
 
@@ -7,4 +7,4 @@ I'm Chinese, but I live in another country, so I didn't grow up speaking Chinese
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)    
 
-![WakaTime Stats](https://github-readme-stats-cai.vercel.app/api/wakatime?username=ItzMelton&layout=compact&cache_seconds=21600&hide=xml,ini,json,markdown,other,shell)
+
