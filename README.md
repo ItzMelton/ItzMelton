@@ -6,4 +6,3 @@ I make TShock plugins on mobile, which is pretty strange because most people use
 I'm Chinese, but I live in another country, so I didn't grow up speaking Chinese every day, and i'm not very fluent in Chinese. English is actually the language I speak the most and feel most comfortable using.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)
