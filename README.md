@@ -7,4 +7,4 @@ I'm Chinese, but I live in another country, so I didn't grow up speaking Chinese
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)    
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItzMelton)](https://github.com/anuraghazra/github-readme-stats)
+![WakaTime Stats](https://github-readme-stats-cai.vercel.app/api/wakatime?username=ItzMelton&layout=compact&cache_seconds=21600&hide=xml,ini,json,markdown,other,shell
