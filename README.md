@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=999999&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=✨I+am+Melon!)](https://git.io/typing-svg)     
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)    
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)          
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) Discord: ItzMelton
