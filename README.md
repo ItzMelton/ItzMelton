@@ -1,7 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=999999&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=✨I+am+Melon!)](https://git.io/typing-svg)     
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](#)
 [![Scratch](https://img.shields.io/badge/Scratch-f7a028?logo=scratch&logoColor=fff)](#)          
 
 I make TShock plugins on mobile, which is pretty strange because most people use a PC/Laptop, but I just push through and code straight from my mobile devices.
