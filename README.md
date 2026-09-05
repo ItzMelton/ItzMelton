@@ -1,15 +1,15 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=999999&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=✨I+am+Melton!)](https://git.io/typing-svg)     
 
-Software/OS    
+[Software/OS]    
 [![ARL Logo](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png)](#)      
 
-Language      
+[Language]      
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Scratch](https://img.shields.io/badge/Scratch-f7a028?logo=scratch&logoColor=fff)](#)          
 
 C# Nooby
 
 我是华人，但我住在国外，所以并不是每天都接触中文。也因为这样，我的中文不太流利。我最常用、最习惯的语言其实是英文。        
-I'm Chinese, but I live in another country, so I didn't grow up speaking Chinese every day, and i'm not very fluent in Chinese. English is actually the language I speak the most and feel most comfortable using.
+I'm Chinese, but I live in another country, so I didn't grow up speaking Chinese every day, and i'm not very fluent in Chinese. English is actually the language I speak the most and feel most comfortable using. When youre talking to me, please use English.
 
 ![Stats](https://github-readme-stats-cai.vercel.app/api?username=ItzMelton&show_icons=true&show=reviews&cache_seconds=21600&include_all_commits=true)
