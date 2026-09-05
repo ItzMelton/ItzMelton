@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=999999&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=✨I+am+Melton!)](https://git.io/typing-svg)     
 
 Software/OS
-https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png       
+[![ARL Logo](https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png)](#)      
 
 Language
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
