@@ -9,3 +9,4 @@
 I'm Chinese, but I live in another country, so I didn't grow up speaking Chinese every day, and i'm not very fluent in Chinese. English is actually the language I speak the most and feel most comfortable using. When you're going to talk to me, please use English.
 
 
+![Stats](https://github-readme-stats-cai.vercel.app/api?username=ItzMelton&show_icons=true&show=reviews&cache_seconds=21600&include_all_commits=true)
